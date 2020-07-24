@@ -1,0 +1,17 @@
+---
+title: "codebook"
+output: html_document
+---
+
+
+## output
+
+a tidy data set as txt file with 180 rows and 68 variables
+
+## variables in the output
+
+mean values by the activity level and subject 
+
+6 activity levels and 30 subjects making 180 rows
+
+68 column variables include 66 variables which are  mean values of various measures ; which would be used as features in further analysis. Subject and activity level are the other two variables.
